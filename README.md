@@ -1,0 +1,1 @@
+random devuelve  un numero aleatorio entre  0 y 1, pruebalo si no me crees :D.
